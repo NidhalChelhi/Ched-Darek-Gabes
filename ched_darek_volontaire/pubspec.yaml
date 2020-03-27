@@ -1,0 +1,46 @@
+name: ched_darek_volunteer
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  cloud_firestore: ^0.12.3
+  firebase_auth: ^0.11.1+6
+  flutter_spinkit: ^4.1.2
+  provider: ^4.0.4
+  intl: ^0.16.1
+  url_launcher: ^5.4.2
+  get_it: ^1.0.3+2
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.7.3"
+  flutter_test:
+    sdk: flutter
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/icon.png"
+flutter:
+  assets:
+    - assets/icons/
+  fonts:
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/Raleway/Raleway-Regular.ttf
+        - asset: assets/fonts/Raleway/Raleway-Light.ttf
+          weight: 100
+        - asset: assets/fonts/Raleway/Raleway-Bold.ttf
+          weight: 700
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo/Cairo-Regular.ttf
+        - asset: assets/fonts/Cairo/Cairo-Light.ttf
+          weight: 100
+        - asset: assets/fonts/Cairo/Cairo-Bold.ttf
+          weight: 700
+  uses-material-design: true

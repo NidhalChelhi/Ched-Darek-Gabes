@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "523761279532",
+    "firebase_url": "https://ched-darek-ec36d.firebaseio.com",
+    "project_id": "ched-darek-ec36d",
+    "storage_bucket": "ched-darek-ec36d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523761279532:android:276ea6909c847d29d3e789",
+        "android_client_info": {
+          "package_name": "com.gabes.ched_darek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523761279532-vnokrh12qbbjen0edv68h8pbts28civa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXBh6enWb4l-AIqA9A8bX7kuwOJhFP1RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523761279532-vnokrh12qbbjen0edv68h8pbts28civa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523761279532:android:8c403c617428f093d3e789",
+        "android_client_info": {
+          "package_name": "com.gabes.ched_darek_volontaire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523761279532-vnokrh12qbbjen0edv68h8pbts28civa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXBh6enWb4l-AIqA9A8bX7kuwOJhFP1RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523761279532-vnokrh12qbbjen0edv68h8pbts28civa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
